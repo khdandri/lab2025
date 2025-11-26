@@ -52,15 +52,15 @@ $$P = \frac{1}{2} \left( \frac{\sqrt{2}}{2} - \left(-\frac{\sqrt{2}}{2}\right) \
 
 **Розв'язання**
 
-1.$M(X)$: $$1/\lambda = 1/15 \text{ мкс}$$.
+1.$M(X) 1/\lambda = 1/15 \text{ мкс}$.
 
-2.$D(X)$: $$1/\lambda^2 = 1/225 \text{ мкс}^2$$.
+2.$D(X) 1/\lambda^2 = 1/225 \text{ мкс}^2$.
 
-3.$\sigma$: $$1/\lambda = 1/15 \text{ мкс}$$.
+3.$\sigma1/\lambda = 1/15 \text{ мкс}$.
 
-4.$P(X > 20)$: $$e^{-\lambda \cdot 20} = e^{-15 \cdot 20} = e^{-300}$$.
+4.$P(X > 20) e^{-\lambda \cdot 20} = e^{-15 \cdot 20} = e^{-300}$.
 
-5.$P(10 < X < 15)$: $$e^{-\lambda \cdot 10} - e^{-\lambda \cdot 15} = e^{-150} - e^{-225}$$.
+5.$P(10 < X < 15) e^{-\lambda \cdot 10} - e^{-\lambda \cdot 15} = e^{-150} - e^{-225}$.
 
 **Відповідь:** 
 
