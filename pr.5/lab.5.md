@@ -33,9 +33,17 @@ $$P(|X| \le \frac{\pi}{4}) = \int_{-\pi/4}^{\pi/4} \frac{1}{2} \cos x \, dx$$
 $$P = \frac{1}{2} \left[ \sin x \right]_{-\pi/4}^{\pi/4} = \frac{1}{2} \left( \sin \left(\frac{\pi}{4}\right) - \sin \left(-\frac{\pi}{4}\right) \right)$$
 $$P = \frac{1}{2} \left( \frac{\sqrt{2}}{2} - \left(-\frac{\sqrt{2}}{2}\right) \right) = \frac{1}{2} \cdot \sqrt{2} = \mathbf{\frac{\sqrt{2}}{2}}$$
 
-**Відповідь:** 1.Константа: $c = \frac{1}{2}$. 
-2.Функція розподілу  $F(x)$:$$F(x) = \begin{cases} 0, & x < -\frac{\pi}{2}, \\ \frac{1}{2} (1 + \sin x), & -\frac{\pi}{2} \le x \le \frac{\pi}{2}, \\ 1, & x > \frac{\pi}{2}. \end{cases}$$
-3.Ймовірність $P(|X| \le \frac{\pi}{4}) = \frac{\sqrt{2}}{2}$.
+**Відповідь:** 1.Константа: 
+
+$c = \frac{1}{2}$. 
+
+2.Функція розподілу  
+
+$F(x)$:$$F(x) = \begin{cases} 0, & x < -\frac{\pi}{2}, \\ \frac{1}{2} (1 + \sin x), & -\frac{\pi}{2} \le x \le \frac{\pi}{2}, \\ 1, & x > \frac{\pi}{2}. \end{cases}$$
+
+3.Ймовірність 
+
+$P(|X| \le \frac{\pi}{4}) = \frac{\sqrt{2}}{2}$.
 
 ---
 
@@ -56,15 +64,15 @@ $$P = \frac{1}{2} \left( \frac{\sqrt{2}}{2} - \left(-\frac{\sqrt{2}}{2}\right) \
 
 **Розв'язання**
 
-1.$M(X) \frac{1}{\lambda} = 1/15 \text{ мкс}$.
+1.$M(X)$ $$\frac{1}{\lambda} = 1/15 \text{ мкс}$$.
 
-2.$D(X) \frac{1}{\lambda^2}= 1/225 \text{ мкс}^2$.
+2.$D(X)$ $$\frac{1}{\lambda^2}= 1/225 \text{ мкс}^2$$.
 
-3.$\sigma \frac{1}{\lambda} = 1/15 \text{ мкс}$.
+3.$\sigma$ $$\frac{1}{\lambda} = 1/15 \text{ мкс}$$.
 
-4.$P(X > 20) e^{-\lambda \cdot 20} = e^{-15 \cdot 20} = e^{-300}$.
+4.$P(X > 20)$ $$e^{-\lambda \cdot 20} = e^{-15 \cdot 20} = e^{-300}$$.
 
-5.$P(10 < X < 15) e^{-\lambda \cdot 10} - e^{-\lambda \cdot 15} = e^{-150} - e^{-225}$.
+5.$P(10 < X < 15)$ $$e^{-\lambda \cdot 10} - e^{-\lambda \cdot 15} = e^{-150} - e^{-225}$$.
 
 **Відповідь:** 
 
@@ -94,13 +102,13 @@ $P(10 < X < 15) = \mathbf{e^{-150} - e^{-225}}$.
 
 **Розв'язання**
 
-1.$M(X): \frac{a+b}{2} = \frac{0+1}{2} = \mathbf{0.5}$.
+1.$M(X)$: $$\frac{a+b}{2} = \frac{0+1}{2} = \mathbf{0.5}$$.
 
-2.$D(X): \frac{(b-a)^2}{12} = \frac{(1-0)^2}{12} = \mathbf{1/12}$.
+2.$D(X)$: $$\frac{(b-a)^2}{12} = \frac{(1-0)^2}{12} = \mathbf{1/12}$$.
 
-3.$\sigma(X): \sqrt{1/12} = \mathbf{\sqrt{3}/6}$.
+3.$\sigma(X)$: $$\sqrt{1/12} = \mathbf{\sqrt{3}/6}$$.
 
-4.$P(X > 0.5): 1 - F(0.5) = 1 - 0.5 = \mathbf{0.5}$.
+4.$P(X > 0.5)$: $$1 - F(0.5) = 1 - 0.5 = \mathbf{0.5}$$.
 
 **Відповідь:** $M(X) = \mathbf{0.5}$.
 $D(X) = \mathbf{1/12}$.
