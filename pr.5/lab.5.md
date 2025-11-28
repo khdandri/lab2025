@@ -66,23 +66,23 @@ $P(|X| \le \frac{\pi}{4}) = \frac{\sqrt{2}}{2}$.
 
 **Розв'язання**
 
-$1 M(X)$ 
+$1. M(X)$: 
 
 $$\frac{1}{\lambda} = 1/15 \text{ мкс}$$.
 
-$2 D(X)$ 
+$2. D(X)$: 
 
 $$\frac{1}{\lambda^2}= 1/225 \text{ мкс}^2$$.
 
-$3 \sigma$
+$3. \sigma$:
 
 $$\frac{1}{\lambda} = 1/15 \text{ мкс}$$.
 
-$4 P(X > 20)$ 
+$4. P(X > 20)$: 
 
 $$e^{-\lambda \cdot 20} = e^{-15 \cdot 20} = e^{-300}$$.
 
-$5 P(10 < X < 15)$ 
+$5. P(10 < X < 15)$: 
 
 $$e^{-\lambda \cdot 10} - e^{-\lambda \cdot 15} = e^{-150} - e^{-225}$$.
 
