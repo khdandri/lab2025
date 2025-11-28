@@ -32,7 +32,7 @@ $w = \sum_{i=1}^{4} (i-1) P_i = P_2 + 2P_3 + 3P_4 \approx 0.3224$.
 
 $P_1$:
  
-$$\begin{pmatrix} 0.3 & 0.7 \\\ 0.5 & 0.5 \end{pmatrix}$$. 
+$$\begin{pmatrix} 0.3 & 0.7 \\\ 0.5 & 0.5 \end{pmatrix}$$
 
 Знайти матрицю переходу $$P_2$$.
 
@@ -40,7 +40,7 @@ $$\begin{pmatrix} 0.3 & 0.7 \\\ 0.5 & 0.5 \end{pmatrix}$$.
 
 $P_1$:
 
-$$\begin{pmatrix} 0.3 & 0.7 \\\ 0.5 & 0.5 \end{pmatrix}$$.
+$$\begin{pmatrix} 0.3 & 0.7 \\\ 0.5 & 0.5 \end{pmatrix}$$
 
 **Розв'язання**
 
